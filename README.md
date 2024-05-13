@@ -1,3 +1,5 @@
+# jsys24-hackathon
+
 ## branch のルール
 
 #### PRs をするブランチ (Default branch)
@@ -36,4 +38,4 @@
 
 - feature/[github の username]/[自由にして良い部分]/#[issue-number]-[issue-summary]
 
-  example) feature/myxogastria0808/nyoki/#112-add-my-config-file
+  example) feature/Myxogastria0808/nyoki/#112-add-my-config-file
