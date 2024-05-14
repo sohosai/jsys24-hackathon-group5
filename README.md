@@ -1,4 +1,4 @@
-# jsys24-hackathon-sample
+# jsys24-hackathon
 
 ## セットアップ
 
@@ -21,6 +21,12 @@ yarn
 5. サンプルで用意されているディレクトリ(member1~member5)にある`index.astro`を作成したディレクトリにコピーする。
 
 6. サンプルで用意されているディレクトリ(member1~member5)にある`hinagata.astro`を参考に作成したディレクトリ内でマークダウンファイルを作成する。
+
+7. 以下のコマンドを実行して、ローカルで起動する。
+
+```shell
+yyarn dev
+```
 
 ## branch のルール
 
